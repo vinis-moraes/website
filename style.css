@@ -18,12 +18,18 @@ main{
 h1{
     align-self: center;
     text-align: center;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
 }
 h2{
     text-align: center;
-    font-size: 15px;
+    align-self: center;
 }
 p{
     text-align: left;
     padding-top: 2.5%;
+}
+
+.icon{
+    float: left;
 }
